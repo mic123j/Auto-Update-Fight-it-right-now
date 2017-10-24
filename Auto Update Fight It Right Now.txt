@@ -1,4 +1,4 @@
 
-<Version: 1.12>
+<Version: 1.13>
 /data/Map009.json https://github.com/mic123j/Auto-Update-Fight-it-right-now/blob/master/Map009.json
 <End of Version>
