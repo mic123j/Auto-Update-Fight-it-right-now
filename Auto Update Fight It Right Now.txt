@@ -3,3 +3,8 @@
 /data/Map011.json https://github.com/mic123j/Auto-Update-Fight-it-right-now/blob/master/Map011.json
 /data/Windows.json https://github.com/mic123j/Auto-Update-Fight-it-right-now/blob/master/Windows.json
 <End of Version>
+
+<Version: 1.12>
+/data/Map011.json https://github.com/mic123j/Auto-Update-Fight-it-right-now/blob/master/Map011.json
+/data/Windows.json https://github.com/mic123j/Auto-Update-Fight-it-right-now/blob/master/Windows.json
+<End of Version>
